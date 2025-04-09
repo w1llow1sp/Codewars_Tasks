@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea898ddf-4ebd-4101-ac3a-0c745ea21924" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/6kyu/Delete occurrences of an element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6kyu/Find the odd int.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7kyu/Count the Digit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kuy/Fix your code before the garden dies.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kuy/Remove an exclamation mark from the end of string.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2tXNOPMv4c75z1KupgLvdVAVELR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Node.js.Bouncing Balls.js.executor": "Run",
+    "Node.js.Count the Digit.js.executor": "Run",
+    "Node.js.Delete occurrences of an element.js.executor": "Run",
+    "Node.js.Find the middle element.js.executor": "Run",
+    "Node.js.Find the odd int.js.executor": "Run",
+    "Node.js.Fix string case.js.executor": "Run",
+    "Node.js.Fix your code before the garden dies.js.executor": "Run",
+    "Node.js.Form The Minimum.js.executor": "Run",
+    "Node.js.Form The Minimum.ts.executor": "Run",
+    "Node.js.Remove an exclamation mark from the end of string.js.executor": "Run",
+    "Node.js.Remove the minimum.js.executor": "Run",
+    "Node.js.Remove the minimum.ts.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Node.js.Find the odd int.js">
+    <configuration name="Count the Digit.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/7kyu/Count the Digit.js" working-dir="$PROJECT_DIR$/7kyu">
+      <method v="2" />
+    </configuration>
+    <configuration name="Delete occurrences of an element.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/6kyu/Delete occurrences of an element.js" working-dir="$PROJECT_DIR$/6kyu">
+      <method v="2" />
+    </configuration>
+    <configuration name="Find the odd int.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/6kyu/Find the odd int.js" working-dir="$PROJECT_DIR$/6kyu">
+      <method v="2" />
+    </configuration>
+    <configuration name="Fix your code before the garden dies.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Fix your code before the garden dies.js" working-dir="$PROJECT_DIR$/8kuy">
+      <method v="2" />
+    </configuration>
+    <configuration name="Remove an exclamation mark from the end of string.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Remove an exclamation mark from the end of string.js" working-dir="$PROJECT_DIR$/8kuy">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.Find the odd int.js" />
+        <item itemvalue="Node.js.Remove an exclamation mark from the end of string.js" />
+        <item itemvalue="Node.js.Fix your code before the garden dies.js" />
+        <item itemvalue="Node.js.Count the Digit.js" />
+        <item itemvalue="Node.js.Delete occurrences of an element.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-WS-242.20224.342" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea898ddf-4ebd-4101-ac3a-0c745ea21924" name="Changes" comment="" />
+      <created>1740494430127</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740494430127</updated>
+      <workItem from="1740494430738" duration="6303000" />
+      <workItem from="1744180625528" duration="4676000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/6kyu/help-the-bookseller.js</url>
+          <line>76</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
