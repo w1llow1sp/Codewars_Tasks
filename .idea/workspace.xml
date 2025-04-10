@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea898ddf-4ebd-4101-ac3a-0c745ea21924" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/8kuy/Training JS 3 Basic data types String.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7kyu/Even numbers in an array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7kyu/Sorted yes no how.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7kyu/Sum of angles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,36 +33,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Node.js.Bouncing Balls.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.Count the Digit.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.Delete occurrences of an element.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.Find the middle element.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.Find the odd int.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.Fix string case.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.Fix your code before the garden dies.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.Form The Minimum.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.Form The Minimum.ts.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.Remove an exclamation mark from the end of string.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.Remove the minimum.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.Remove the minimum.ts.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2024.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Node.js.Bouncing Balls.js.executor": "Run",
+    "Node.js.Count the Digit.js.executor": "Run",
+    "Node.js.Delete occurrences of an element.js.executor": "Run",
+    "Node.js.Even numbers in an array.js.executor": "Run",
+    "Node.js.Find the middle element.js.executor": "Run",
+    "Node.js.Find the odd int.js.executor": "Run",
+    "Node.js.Fix string case.js.executor": "Run",
+    "Node.js.Fix your code before the garden dies.js.executor": "Run",
+    "Node.js.Form The Minimum.js.executor": "Run",
+    "Node.js.Form The Minimum.ts.executor": "Run",
+    "Node.js.Remove an exclamation mark from the end of string.js.executor": "Run",
+    "Node.js.Remove the minimum.js.executor": "Run",
+    "Node.js.Remove the minimum.ts.executor": "Run",
+    "Node.js.Sorted yes no how.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Node.js.Find the odd int.js">
-    <configuration name="Count the Digit.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/7kyu/Count the Digit.js" working-dir="$PROJECT_DIR$/7kyu">
-      <method v="2" />
-    </configuration>
-    <configuration name="Delete occurrences of an element.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/6kyu/Delete occurrences of an element.js" working-dir="$PROJECT_DIR$/6kyu">
+}]]></component>
+  <component name="RunManager" selected="Node.js.Even numbers in an array.js">
+    <configuration name="Even numbers in an array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/7kyu/Even numbers in an array.js" working-dir="$PROJECT_DIR$/7kyu">
       <method v="2" />
     </configuration>
     <configuration name="Find the odd int.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/6kyu/Find the odd int.js" working-dir="$PROJECT_DIR$/6kyu">
@@ -71,13 +73,16 @@
     <configuration name="Remove an exclamation mark from the end of string.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Remove an exclamation mark from the end of string.js" working-dir="$PROJECT_DIR$/8kuy">
       <method v="2" />
     </configuration>
+    <configuration name="Sorted yes no how.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/7kyu/Sorted yes no how.js" working-dir="$PROJECT_DIR$/7kyu">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Even numbers in an array.js" />
+        <item itemvalue="Node.js.Sorted yes no how.js" />
         <item itemvalue="Node.js.Find the odd int.js" />
         <item itemvalue="Node.js.Remove an exclamation mark from the end of string.js" />
         <item itemvalue="Node.js.Fix your code before the garden dies.js" />
-        <item itemvalue="Node.js.Count the Digit.js" />
-        <item itemvalue="Node.js.Delete occurrences of an element.js" />
       </list>
     </recent_temporary>
   </component>
@@ -98,7 +103,7 @@
       <updated>1740494430127</updated>
       <workItem from="1740494430738" duration="6303000" />
       <workItem from="1744180625528" duration="5065000" />
-      <workItem from="1744257967437" duration="358000" />
+      <workItem from="1744257967437" duration="2612000" />
     </task>
     <servers />
   </component>
