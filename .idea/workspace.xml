@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea898ddf-4ebd-4101-ac3a-0c745ea21924" name="Changes" comment="" />
+    <list default="true" id="ea898ddf-4ebd-4101-ac3a-0c745ea21924" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/8kuy/Training JS 3 Basic data types String.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,6 +98,7 @@
       <updated>1740494430127</updated>
       <workItem from="1740494430738" duration="6303000" />
       <workItem from="1744180625528" duration="5065000" />
+      <workItem from="1744257967437" duration="358000" />
     </task>
     <servers />
   </component>
@@ -108,13 +111,11 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/6kyu/help-the-bookseller.js</url>
           <line>76</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/6kyu/Find the odd int.js</url>
           <line>7</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
