@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea898ddf-4ebd-4101-ac3a-0c745ea21924" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/7kyu/Even numbers in an array.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7kyu/Sorted yes no how.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7kyu/Sum of angles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5kuy/Regex Password Validation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6kyu/Counting Duplicates.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7kyu/Deodorant Evaporator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7kyu/How many lightsabers do you own.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kuy/Sum without highest and lowest number.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +39,9 @@
   "keyToString": {
     "Node.js.Bouncing Balls.js.executor": "Run",
     "Node.js.Count the Digit.js.executor": "Run",
+    "Node.js.Counting Duplicates.js.executor": "Run",
     "Node.js.Delete occurrences of an element.js.executor": "Run",
+    "Node.js.Deodorant Evaporator.js.executor": "Run",
     "Node.js.Even numbers in an array.js.executor": "Run",
     "Node.js.Find the middle element.js.executor": "Run",
     "Node.js.Find the odd int.js.executor": "Run",
@@ -49,6 +53,7 @@
     "Node.js.Remove the minimum.js.executor": "Run",
     "Node.js.Remove the minimum.ts.executor": "Run",
     "Node.js.Sorted yes no how.js.executor": "Run",
+    "Node.js.Sum without highest and lowest number.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
@@ -60,29 +65,29 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Node.js.Even numbers in an array.js">
+  <component name="RunManager" selected="Node.js.Sum without highest and lowest number.js">
+    <configuration name="Counting Duplicates.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/6kyu/Counting Duplicates.js" working-dir="$PROJECT_DIR$/6kyu">
+      <method v="2" />
+    </configuration>
+    <configuration name="Deodorant Evaporator.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/7kyu/Deodorant Evaporator.js" working-dir="$PROJECT_DIR$/7kyu">
+      <method v="2" />
+    </configuration>
     <configuration name="Even numbers in an array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/7kyu/Even numbers in an array.js" working-dir="$PROJECT_DIR$/7kyu">
-      <method v="2" />
-    </configuration>
-    <configuration name="Find the odd int.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/6kyu/Find the odd int.js" working-dir="$PROJECT_DIR$/6kyu">
-      <method v="2" />
-    </configuration>
-    <configuration name="Fix your code before the garden dies.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Fix your code before the garden dies.js" working-dir="$PROJECT_DIR$/8kuy">
-      <method v="2" />
-    </configuration>
-    <configuration name="Remove an exclamation mark from the end of string.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Remove an exclamation mark from the end of string.js" working-dir="$PROJECT_DIR$/8kuy">
       <method v="2" />
     </configuration>
     <configuration name="Sorted yes no how.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/7kyu/Sorted yes no how.js" working-dir="$PROJECT_DIR$/7kyu">
       <method v="2" />
     </configuration>
+    <configuration name="Sum without highest and lowest number.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Sum without highest and lowest number.js" working-dir="$PROJECT_DIR$/8kuy">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Sum without highest and lowest number.js" />
+        <item itemvalue="Node.js.Deodorant Evaporator.js" />
+        <item itemvalue="Node.js.Counting Duplicates.js" />
         <item itemvalue="Node.js.Even numbers in an array.js" />
         <item itemvalue="Node.js.Sorted yes no how.js" />
-        <item itemvalue="Node.js.Find the odd int.js" />
-        <item itemvalue="Node.js.Remove an exclamation mark from the end of string.js" />
-        <item itemvalue="Node.js.Fix your code before the garden dies.js" />
       </list>
     </recent_temporary>
   </component>
@@ -103,7 +108,9 @@
       <updated>1740494430127</updated>
       <workItem from="1740494430738" duration="6303000" />
       <workItem from="1744180625528" duration="5065000" />
-      <workItem from="1744257967437" duration="2612000" />
+      <workItem from="1744257967437" duration="3233000" />
+      <workItem from="1744264722525" duration="58000" />
+      <workItem from="1744346120006" duration="3854000" />
     </task>
     <servers />
   </component>
