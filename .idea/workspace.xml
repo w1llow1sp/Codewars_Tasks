@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea898ddf-4ebd-4101-ac3a-0c745ea21924" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/7kyu/Alphabet war.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7kyu/Make a function that does arithmetic!.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7kyu/Training JS #7 if else and ternary operator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8kuy/Grasshopper - Array Mean.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8kuy/Grasshopper - Combine strings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6kyu/Data Reverse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6kyu/Meeting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7kyu/Love vs friendship.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kuy/Conditional statement--switch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kuy/simple calculator.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +53,7 @@
     "Node.js.Form The Minimum.js.executor": "Run",
     "Node.js.Form The Minimum.ts.executor": "Run",
     "Node.js.Grasshopper - Array Mean.js.executor": "Run",
+    "Node.js.Meeting.js.executor": "Run",
     "Node.js.Merge two sorted arrays into one.js.executor": "Run",
     "Node.js.Remove an exclamation mark from the end of string.js.executor": "Run",
     "Node.js.Remove the minimum.js.executor": "Run",
@@ -62,8 +63,8 @@
     "Node.js.task.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "develop",
-    "last_opened_file_path": "C:/Users/Маша/Desktop/other/Обучение/CodeWars_JS",
+    "git-widget-placeholder": "feature/PRJ-xxx-add-codewars-files",
+    "last_opened_file_path": "C:/Users/Маша/Desktop/other/Обучение/react_quique_start",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -73,7 +74,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Node.js.Alphabet war.js">
+  <component name="RunManager" selected="Node.js.Meeting.js">
     <configuration name="Alphabet war.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/7kyu/Alphabet war.js" working-dir="$PROJECT_DIR$/7kyu">
       <method v="2" />
     </configuration>
@@ -86,16 +87,16 @@
     <configuration name="Grasshopper - Array Mean.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Grasshopper - Array Mean.js" working-dir="$PROJECT_DIR$/8kuy">
       <method v="2" />
     </configuration>
-    <configuration name="Merge two sorted arrays into one.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Merge two sorted arrays into one.js" working-dir="$PROJECT_DIR$/8kuy">
+    <configuration name="Meeting.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/6kyu/Meeting.js" working-dir="$PROJECT_DIR$/6kyu">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Meeting.js" />
         <item itemvalue="Node.js.Alphabet war.js" />
         <item itemvalue="Node.js.Grasshopper - Array Mean.js" />
         <item itemvalue="Node.js.Alternate capitalization.js" />
         <item itemvalue="Node.js.Check same case.js" />
-        <item itemvalue="Node.js.Merge two sorted arrays into one.js" />
       </list>
     </recent_temporary>
   </component>
@@ -123,7 +124,8 @@
       <workItem from="1744365858659" duration="9000" />
       <workItem from="1744365880817" duration="4000" />
       <workItem from="1744436701188" duration="4314000" />
-      <workItem from="1744629564787" duration="2899000" />
+      <workItem from="1744629564787" duration="3481000" />
+      <workItem from="1744698255420" duration="4842000" />
     </task>
     <servers />
   </component>
@@ -142,6 +144,12 @@
           <url>file://$PROJECT_DIR$/6kyu/Find the odd int.js</url>
           <line>7</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/6kyu/Meeting.js</url>
+          <line>28</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
