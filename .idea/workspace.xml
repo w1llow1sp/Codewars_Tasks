@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea898ddf-4ebd-4101-ac3a-0c745ea21924" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/6kyu/Data Reverse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6kyu/Meeting.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7kyu/Love vs friendship.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8kuy/Conditional statement--switch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8kuy/simple calculator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6kyu/A Rule of Divisibility by 13.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7kyu/Power of two.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kuy/CSV representation of array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kuy/Do you speak English.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kuy/Who ate the cookie.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +37,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Node.js.A Rule of Divisibility by 13.js.executor": "Run",
     "Node.js.Alphabet war.js.executor": "Run",
     "Node.js.Alternate capitalization.js.executor": "Run",
     "Node.js.Bouncing Balls.js.executor": "Run",
@@ -45,6 +46,7 @@
     "Node.js.Counting Duplicates.js.executor": "Run",
     "Node.js.Delete occurrences of an element.js.executor": "Run",
     "Node.js.Deodorant Evaporator.js.executor": "Run",
+    "Node.js.Do you speak English.js.executor": "Run",
     "Node.js.Even numbers in an array.js.executor": "Run",
     "Node.js.Find the middle element.js.executor": "Run",
     "Node.js.Find the odd int.js.executor": "Run",
@@ -74,14 +76,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Node.js.Meeting.js">
+  <component name="RunManager" selected="Node.js.Do you speak English.js">
+    <configuration name="A Rule of Divisibility by 13.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/6kyu/A Rule of Divisibility by 13.js" working-dir="$PROJECT_DIR$/6kyu">
+      <method v="2" />
+    </configuration>
     <configuration name="Alphabet war.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/7kyu/Alphabet war.js" working-dir="$PROJECT_DIR$/7kyu">
       <method v="2" />
     </configuration>
-    <configuration name="Alternate capitalization.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/7kyu/Alternate capitalization.js" working-dir="$PROJECT_DIR$/7kyu">
-      <method v="2" />
-    </configuration>
-    <configuration name="Check same case.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Check same case.js" working-dir="$PROJECT_DIR$/8kuy">
+    <configuration name="Do you speak English.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Do you speak English.js" working-dir="$PROJECT_DIR$/8kuy">
       <method v="2" />
     </configuration>
     <configuration name="Grasshopper - Array Mean.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Grasshopper - Array Mean.js" working-dir="$PROJECT_DIR$/8kuy">
@@ -92,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Do you speak English.js" />
+        <item itemvalue="Node.js.A Rule of Divisibility by 13.js" />
         <item itemvalue="Node.js.Meeting.js" />
         <item itemvalue="Node.js.Alphabet war.js" />
         <item itemvalue="Node.js.Grasshopper - Array Mean.js" />
-        <item itemvalue="Node.js.Alternate capitalization.js" />
-        <item itemvalue="Node.js.Check same case.js" />
       </list>
     </recent_temporary>
   </component>
@@ -125,7 +127,8 @@
       <workItem from="1744365880817" duration="4000" />
       <workItem from="1744436701188" duration="4314000" />
       <workItem from="1744629564787" duration="3481000" />
-      <workItem from="1744698255420" duration="4842000" />
+      <workItem from="1744698255420" duration="5324000" />
+      <workItem from="1744773873852" duration="5412000" />
     </task>
     <servers />
   </component>
@@ -148,7 +151,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/6kyu/Meeting.js</url>
           <line>28</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
