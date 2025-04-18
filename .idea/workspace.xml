@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea898ddf-4ebd-4101-ac3a-0c745ea21924" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/6kyu/A Rule of Divisibility by 13.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7kyu/Power of two.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8kuy/CSV representation of array.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8kuy/Do you speak English.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8kuy/Who ate the cookie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7kyu/Two fighters, one winner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kuy/Filter out the geese.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kuy/Hex to Decimal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kuy/Remove duplicates from list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kuy/Student's Final Grade.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +46,7 @@
     "Node.js.Counting Duplicates.js.executor": "Run",
     "Node.js.Delete occurrences of an element.js.executor": "Run",
     "Node.js.Deodorant Evaporator.js.executor": "Run",
+    "Node.js.Difference of Volumes of Cuboids.js.executor": "Run",
     "Node.js.Do you speak English.js.executor": "Run",
     "Node.js.Even numbers in an array.js.executor": "Run",
     "Node.js.Find the middle element.js.executor": "Run",
@@ -54,10 +55,15 @@
     "Node.js.Fix your code before the garden dies.js.executor": "Run",
     "Node.js.Form The Minimum.js.executor": "Run",
     "Node.js.Form The Minimum.ts.executor": "Run",
+    "Node.js.Formatting decimal places.js.executor": "Run",
     "Node.js.Grasshopper - Array Mean.js.executor": "Run",
+    "Node.js.Hex to Decimal.js.executor": "Run",
     "Node.js.Meeting.js.executor": "Run",
     "Node.js.Merge two sorted arrays into one.js.executor": "Run",
+    "Node.js.Pillars.js.executor": "Run",
+    "Node.js.Price of Mangoes.js.executor": "Run",
     "Node.js.Remove an exclamation mark from the end of string.js.executor": "Run",
+    "Node.js.Remove duplicates from list.js.executor": "Run",
     "Node.js.Remove the minimum.js.executor": "Run",
     "Node.js.Remove the minimum.ts.executor": "Run",
     "Node.js.Sorted yes no how.js.executor": "Run",
@@ -76,29 +82,29 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Node.js.Do you speak English.js">
-    <configuration name="A Rule of Divisibility by 13.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/6kyu/A Rule of Divisibility by 13.js" working-dir="$PROJECT_DIR$/6kyu">
+  <component name="RunManager" selected="Node.js.Remove duplicates from list.js">
+    <configuration name="Difference of Volumes of Cuboids.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Difference of Volumes of Cuboids.js" working-dir="$PROJECT_DIR$/8kuy">
       <method v="2" />
     </configuration>
-    <configuration name="Alphabet war.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/7kyu/Alphabet war.js" working-dir="$PROJECT_DIR$/7kyu">
+    <configuration name="Hex to Decimal.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Hex to Decimal.js" working-dir="$PROJECT_DIR$/8kuy">
       <method v="2" />
     </configuration>
-    <configuration name="Do you speak English.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Do you speak English.js" working-dir="$PROJECT_DIR$/8kuy">
+    <configuration name="Pillars.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Pillars.js" working-dir="$PROJECT_DIR$/8kuy">
       <method v="2" />
     </configuration>
-    <configuration name="Grasshopper - Array Mean.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Grasshopper - Array Mean.js" working-dir="$PROJECT_DIR$/8kuy">
+    <configuration name="Price of Mangoes.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Price of Mangoes.js" working-dir="$PROJECT_DIR$/8kuy">
       <method v="2" />
     </configuration>
-    <configuration name="Meeting.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/6kyu/Meeting.js" working-dir="$PROJECT_DIR$/6kyu">
+    <configuration name="Remove duplicates from list.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Remove duplicates from list.js" working-dir="$PROJECT_DIR$/8kuy">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.Do you speak English.js" />
-        <item itemvalue="Node.js.A Rule of Divisibility by 13.js" />
-        <item itemvalue="Node.js.Meeting.js" />
-        <item itemvalue="Node.js.Alphabet war.js" />
-        <item itemvalue="Node.js.Grasshopper - Array Mean.js" />
+        <item itemvalue="Node.js.Remove duplicates from list.js" />
+        <item itemvalue="Node.js.Hex to Decimal.js" />
+        <item itemvalue="Node.js.Pillars.js" />
+        <item itemvalue="Node.js.Difference of Volumes of Cuboids.js" />
+        <item itemvalue="Node.js.Price of Mangoes.js" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +134,9 @@
       <workItem from="1744436701188" duration="4314000" />
       <workItem from="1744629564787" duration="3481000" />
       <workItem from="1744698255420" duration="5324000" />
-      <workItem from="1744773873852" duration="5412000" />
+      <workItem from="1744773873852" duration="5642000" />
+      <workItem from="1744869722504" duration="5124000" />
+      <workItem from="1744950034867" duration="3510000" />
     </task>
     <servers />
   </component>
