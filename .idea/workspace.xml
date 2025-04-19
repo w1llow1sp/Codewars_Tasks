@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea898ddf-4ebd-4101-ac3a-0c745ea21924" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/8kuy/Difference of Volumes of Cuboids.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8kuy/Formatting decimal places.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8kuy/Pillars.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8kuy/Price of Mangoes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8kuy/String cleaning.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7kyu/Maximum Length Difference.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kuy/Bin to Decimal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kuy/Is the string uppercase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kuy/Printing Array elements with Comma delimiters.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +39,7 @@
     "Node.js.A Rule of Divisibility by 13.js.executor": "Run",
     "Node.js.Alphabet war.js.executor": "Run",
     "Node.js.Alternate capitalization.js.executor": "Run",
+    "Node.js.Bin to Decimal.js.executor": "Run",
     "Node.js.Bouncing Balls.js.executor": "Run",
     "Node.js.Check same case.js.executor": "Run",
     "Node.js.Count the Digit.js.executor": "Run",
@@ -57,11 +57,16 @@
     "Node.js.Form The Minimum.ts.executor": "Run",
     "Node.js.Formatting decimal places.js.executor": "Run",
     "Node.js.Grasshopper - Array Mean.js.executor": "Run",
+    "Node.js.Hex to Decimal.js.executor": "Run",
+    "Node.js.Is the string uppercase.js.executor": "Run",
+    "Node.js.Maximum Length Difference.js.executor": "Run",
     "Node.js.Meeting.js.executor": "Run",
     "Node.js.Merge two sorted arrays into one.js.executor": "Run",
     "Node.js.Pillars.js.executor": "Run",
     "Node.js.Price of Mangoes.js.executor": "Run",
+    "Node.js.Printing Array elements with Comma delimiters.js.executor": "Run",
     "Node.js.Remove an exclamation mark from the end of string.js.executor": "Run",
+    "Node.js.Remove duplicates from list.js.executor": "Run",
     "Node.js.Remove the minimum.js.executor": "Run",
     "Node.js.Remove the minimum.ts.executor": "Run",
     "Node.js.Sorted yes no how.js.executor": "Run",
@@ -80,29 +85,29 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Node.js.Pillars.js">
-    <configuration name="Difference of Volumes of Cuboids.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Difference of Volumes of Cuboids.js" working-dir="$PROJECT_DIR$/8kuy">
+  <component name="RunManager" selected="Node.js.Bin to Decimal.js">
+    <configuration name="Bin to Decimal.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Bin to Decimal.js" working-dir="$PROJECT_DIR$/8kuy">
       <method v="2" />
     </configuration>
-    <configuration name="Do you speak English.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Do you speak English.js" working-dir="$PROJECT_DIR$/8kuy">
+    <configuration name="Is the string uppercase.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Is the string uppercase.js" working-dir="$PROJECT_DIR$/8kuy">
       <method v="2" />
     </configuration>
-    <configuration name="Formatting decimal places.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Formatting decimal places.js" working-dir="$PROJECT_DIR$/8kuy">
+    <configuration name="Maximum Length Difference.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/7kyu/Maximum Length Difference.js" working-dir="$PROJECT_DIR$/7kyu">
       <method v="2" />
     </configuration>
-    <configuration name="Pillars.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Pillars.js" working-dir="$PROJECT_DIR$/8kuy">
+    <configuration name="Printing Array elements with Comma delimiters.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Printing Array elements with Comma delimiters.js" working-dir="$PROJECT_DIR$/8kuy">
       <method v="2" />
     </configuration>
-    <configuration name="Price of Mangoes.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Price of Mangoes.js" working-dir="$PROJECT_DIR$/8kuy">
+    <configuration name="Remove duplicates from list.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Remove duplicates from list.js" working-dir="$PROJECT_DIR$/8kuy">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.Pillars.js" />
-        <item itemvalue="Node.js.Difference of Volumes of Cuboids.js" />
-        <item itemvalue="Node.js.Price of Mangoes.js" />
-        <item itemvalue="Node.js.Formatting decimal places.js" />
-        <item itemvalue="Node.js.Do you speak English.js" />
+        <item itemvalue="Node.js.Bin to Decimal.js" />
+        <item itemvalue="Node.js.Printing Array elements with Comma delimiters.js" />
+        <item itemvalue="Node.js.Is the string uppercase.js" />
+        <item itemvalue="Node.js.Maximum Length Difference.js" />
+        <item itemvalue="Node.js.Remove duplicates from list.js" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +138,9 @@
       <workItem from="1744629564787" duration="3481000" />
       <workItem from="1744698255420" duration="5324000" />
       <workItem from="1744773873852" duration="5642000" />
-      <workItem from="1744869722504" duration="4652000" />
+      <workItem from="1744869722504" duration="5124000" />
+      <workItem from="1744950034867" duration="3784000" />
+      <workItem from="1745046102281" duration="2967000" />
     </task>
     <servers />
   </component>
