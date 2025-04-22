@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea898ddf-4ebd-4101-ac3a-0c745ea21924" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/6kyu/Decipher this.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7kyu/Array Leaders.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7kyu/Divide and Conquer.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7kyu/Two to One.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5kuy/Maximum subarray sum.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kuy/Basic data types--Object.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kuy/Correct the mistakes of the character recognition software.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kuy/Name on billboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kuy/Take the First N Elements.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="TypeScript File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -40,9 +41,11 @@
     "Node.js.A Rule of Divisibility by 13.js.executor": "Run",
     "Node.js.Alphabet war.js.executor": "Run",
     "Node.js.Alternate capitalization.js.executor": "Run",
+    "Node.js.Basic data types--Object.js.executor": "Run",
     "Node.js.Bin to Decimal.js.executor": "Run",
     "Node.js.Bouncing Balls.js.executor": "Run",
     "Node.js.Check same case.js.executor": "Run",
+    "Node.js.Correct the mistakes of the character recognition software.js.executor": "Run",
     "Node.js.Count the Digit.js.executor": "Run",
     "Node.js.Counting Duplicates.js.executor": "Run",
     "Node.js.Decipher this.ts.executor": "Run",
@@ -65,6 +68,7 @@
     "Node.js.Maximum Length Difference.js.executor": "Run",
     "Node.js.Meeting.js.executor": "Run",
     "Node.js.Merge two sorted arrays into one.js.executor": "Run",
+    "Node.js.Name on billboard.js.executor": "Run",
     "Node.js.Pillars.js.executor": "Run",
     "Node.js.Price of Mangoes.js.executor": "Run",
     "Node.js.Printing Array elements with Comma delimiters.js.executor": "Run",
@@ -72,6 +76,7 @@
     "Node.js.Remove duplicates from list.js.executor": "Run",
     "Node.js.Remove the minimum.js.executor": "Run",
     "Node.js.Remove the minimum.ts.executor": "Run",
+    "Node.js.Sentence Smash.ts.executor": "Run",
     "Node.js.Sorted yes no how.js.executor": "Run",
     "Node.js.Sum without highest and lowest number.js.executor": "Run",
     "Node.js.Two to One.js.executor": "Run",
@@ -89,29 +94,29 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Node.js.Sentence Smash.ts">
-    <configuration name="Bin to Decimal.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Bin to Decimal.js" working-dir="$PROJECT_DIR$/8kuy">
+  <component name="RunManager" selected="Node.js.Take the First N Elements.js">
+    <configuration name="Basic data types--Object.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Basic data types--Object.js" working-dir="$PROJECT_DIR$/8kuy">
       <method v="2" />
     </configuration>
-    <configuration name="Decipher this.ts" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/6kyu/Decipher this.ts" typescript-loader="bundled" working-dir="$PROJECT_DIR$/6kyu">
+    <configuration name="Correct the mistakes of the character recognition software.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Correct the mistakes of the character recognition software.js" working-dir="$PROJECT_DIR$/8kuy">
       <method v="2" />
     </configuration>
-    <configuration name="Divide and Conquer.ts" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/7kyu/Divide and Conquer.ts" typescript-loader="bundled" working-dir="$PROJECT_DIR$/7kyu">
+    <configuration name="Name on billboard.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Name on billboard.js" working-dir="$PROJECT_DIR$/8kuy">
       <method v="2" />
     </configuration>
     <configuration name="Sentence Smash.ts" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Sentence Smash.ts" typescript-loader="bundled" working-dir="$PROJECT_DIR$/8kuy">
       <method v="2" />
     </configuration>
-    <configuration name="Two to One.ts" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/7kyu/Two to One.ts" working-dir="$PROJECT_DIR$/7kyu">
+    <configuration name="Take the First N Elements.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Take the First N Elements.js" working-dir="$PROJECT_DIR$/8kuy">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Take the First N Elements.js" />
+        <item itemvalue="Node.js.Correct the mistakes of the character recognition software.js" />
+        <item itemvalue="Node.js.Basic data types--Object.js" />
+        <item itemvalue="Node.js.Name on billboard.js" />
         <item itemvalue="Node.js.Sentence Smash.ts" />
-        <item itemvalue="Node.js.Decipher this.ts" />
-        <item itemvalue="Node.js.Divide and Conquer.ts" />
-        <item itemvalue="Node.js.Two to One.ts" />
-        <item itemvalue="Node.js.Bin to Decimal.js" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +150,8 @@
       <workItem from="1744869722504" duration="5124000" />
       <workItem from="1744950034867" duration="3784000" />
       <workItem from="1745046102281" duration="3541000" />
-      <workItem from="1745220632400" duration="3470000" />
+      <workItem from="1745220632400" duration="3840000" />
+      <workItem from="1745308815751" duration="4196000" />
     </task>
     <servers />
   </component>
@@ -173,7 +179,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/7kyu/Two to One.ts</url>
           <line>16</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
