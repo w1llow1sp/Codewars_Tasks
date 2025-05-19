@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea898ddf-4ebd-4101-ac3a-0c745ea21924" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/8kuy/Area of a Square.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8kuy/Count of positives  sum of negatives.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8kuy/Multiply the number.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8kuy/loop statement --for.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5kuy/Best travel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7kyu/Filter the number.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7kyu/Friend or Foe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7kyu/Round up to the next multiple of 5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kuy/Super Duper Easy.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +42,7 @@
     "Node.js.Alphabet war.js.executor": "Run",
     "Node.js.Alternate capitalization.js.executor": "Run",
     "Node.js.Basic data types--Object.js.executor": "Run",
+    "Node.js.Best travel.js.executor": "Run",
     "Node.js.Bin to Decimal.js.executor": "Run",
     "Node.js.Bouncing Balls.js.executor": "Run",
     "Node.js.Check same case.js.executor": "Run",
@@ -55,6 +57,7 @@
     "Node.js.Divide and Conquer.ts.executor": "Run",
     "Node.js.Do you speak English.js.executor": "Run",
     "Node.js.Even numbers in an array.js.executor": "Run",
+    "Node.js.Filter the number.js.executor": "Run",
     "Node.js.Find the middle element.js.executor": "Run",
     "Node.js.Find the odd int.js.executor": "Run",
     "Node.js.Fix string case.js.executor": "Run",
@@ -62,6 +65,7 @@
     "Node.js.Form The Minimum.js.executor": "Run",
     "Node.js.Form The Minimum.ts.executor": "Run",
     "Node.js.Formatting decimal places.js.executor": "Run",
+    "Node.js.Friend or Foe.js.executor": "Run",
     "Node.js.Grasshopper - Array Mean.js.executor": "Run",
     "Node.js.Hex to Decimal.js.executor": "Run",
     "Node.js.Is the string uppercase.js.executor": "Run",
@@ -76,6 +80,7 @@
     "Node.js.Remove duplicates from list.js.executor": "Run",
     "Node.js.Remove the minimum.js.executor": "Run",
     "Node.js.Remove the minimum.ts.executor": "Run",
+    "Node.js.Round up to the next multiple of 5.js.executor": "Run",
     "Node.js.Sentence Smash.ts.executor": "Run",
     "Node.js.Sorted yes no how.js.executor": "Run",
     "Node.js.Sum without highest and lowest number.js.executor": "Run",
@@ -95,29 +100,29 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Node.js.Count of positives  sum of negatives.js">
-    <configuration name="Basic data types--Object.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Basic data types--Object.js" working-dir="$PROJECT_DIR$/8kuy">
-      <method v="2" />
-    </configuration>
-    <configuration name="Correct the mistakes of the character recognition software.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Correct the mistakes of the character recognition software.js" working-dir="$PROJECT_DIR$/8kuy">
+  <component name="RunManager" selected="Node.js.Filter the number.js">
+    <configuration name="Best travel.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/5kuy/Best travel.js" working-dir="$PROJECT_DIR$/5kuy">
       <method v="2" />
     </configuration>
     <configuration name="Count of positives  sum of negatives.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Count of positives  sum of negatives.js" working-dir="$PROJECT_DIR$/8kuy">
       <method v="2" />
     </configuration>
-    <configuration name="Name on billboard.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Name on billboard.js" working-dir="$PROJECT_DIR$/8kuy">
+    <configuration name="Filter the number.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/7kyu/Filter the number.js" working-dir="$PROJECT_DIR$/7kyu">
       <method v="2" />
     </configuration>
-    <configuration name="Take the First N Elements.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Take the First N Elements.js" working-dir="$PROJECT_DIR$/8kuy">
+    <configuration name="Friend or Foe.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/7kyu/Friend or Foe.js" working-dir="$PROJECT_DIR$/7kyu">
+      <method v="2" />
+    </configuration>
+    <configuration name="Round up to the next multiple of 5.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/7kyu/Round up to the next multiple of 5.js" working-dir="$PROJECT_DIR$/7kyu">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Filter the number.js" />
+        <item itemvalue="Node.js.Round up to the next multiple of 5.js" />
+        <item itemvalue="Node.js.Friend or Foe.js" />
+        <item itemvalue="Node.js.Best travel.js" />
         <item itemvalue="Node.js.Count of positives  sum of negatives.js" />
-        <item itemvalue="Node.js.Take the First N Elements.js" />
-        <item itemvalue="Node.js.Correct the mistakes of the character recognition software.js" />
-        <item itemvalue="Node.js.Basic data types--Object.js" />
-        <item itemvalue="Node.js.Name on billboard.js" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +158,8 @@
       <workItem from="1745046102281" duration="3541000" />
       <workItem from="1745220632400" duration="3840000" />
       <workItem from="1745308815751" duration="4652000" />
-      <workItem from="1745564459664" duration="3660000" />
+      <workItem from="1745564459664" duration="4677000" />
+      <workItem from="1747633083473" duration="4390000" />
     </task>
     <servers />
   </component>
