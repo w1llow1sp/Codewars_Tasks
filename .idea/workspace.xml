@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea898ddf-4ebd-4101-ac3a-0c745ea21924" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/5kuy/Best travel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7kyu/Filter the number.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7kyu/Friend or Foe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7kyu/Round up to the next multiple of 5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8kuy/Super Duper Easy.js" afterDir="false" />
+    <list default="true" id="ea898ddf-4ebd-4101-ac3a-0c745ea21924" name="Changes" comment=" # 19.05.2025 :&#10; * Add solved tasks for today">
+      <change afterPath="$PROJECT_DIR$/6kyu/Highest Rank Number in an Array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7kyu/Most digits.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7kyu/Odd-Even String Sort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7kyu/Simple beads count.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8kuy/Classy Classes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,11 +68,14 @@
     "Node.js.Friend or Foe.js.executor": "Run",
     "Node.js.Grasshopper - Array Mean.js.executor": "Run",
     "Node.js.Hex to Decimal.js.executor": "Run",
+    "Node.js.Highest Rank Number in an Array.js.executor": "Run",
     "Node.js.Is the string uppercase.js.executor": "Run",
     "Node.js.Maximum Length Difference.js.executor": "Run",
     "Node.js.Meeting.js.executor": "Run",
     "Node.js.Merge two sorted arrays into one.js.executor": "Run",
+    "Node.js.Most digits.js.executor": "Run",
     "Node.js.Name on billboard.js.executor": "Run",
+    "Node.js.Odd-Even String Sort.js.executor": "Run",
     "Node.js.Pillars.js.executor": "Run",
     "Node.js.Price of Mangoes.js.executor": "Run",
     "Node.js.Printing Array elements with Comma delimiters.js.executor": "Run",
@@ -82,6 +85,7 @@
     "Node.js.Remove the minimum.ts.executor": "Run",
     "Node.js.Round up to the next multiple of 5.js.executor": "Run",
     "Node.js.Sentence Smash.ts.executor": "Run",
+    "Node.js.Simple beads count.js.executor": "Run",
     "Node.js.Sorted yes no how.js.executor": "Run",
     "Node.js.Sum without highest and lowest number.js.executor": "Run",
     "Node.js.Take the First N Elements.js.executor": "Run",
@@ -100,29 +104,29 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Node.js.Filter the number.js">
-    <configuration name="Best travel.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/5kuy/Best travel.js" working-dir="$PROJECT_DIR$/5kuy">
-      <method v="2" />
-    </configuration>
-    <configuration name="Count of positives  sum of negatives.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8kuy/Count of positives  sum of negatives.js" working-dir="$PROJECT_DIR$/8kuy">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.Highest Rank Number in an Array.js">
     <configuration name="Filter the number.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/7kyu/Filter the number.js" working-dir="$PROJECT_DIR$/7kyu">
       <method v="2" />
     </configuration>
-    <configuration name="Friend or Foe.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/7kyu/Friend or Foe.js" working-dir="$PROJECT_DIR$/7kyu">
+    <configuration name="Highest Rank Number in an Array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/6kyu/Highest Rank Number in an Array.js" working-dir="$PROJECT_DIR$/6kyu">
       <method v="2" />
     </configuration>
-    <configuration name="Round up to the next multiple of 5.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/7kyu/Round up to the next multiple of 5.js" working-dir="$PROJECT_DIR$/7kyu">
+    <configuration name="Most digits.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/7kyu/Most digits.js" working-dir="$PROJECT_DIR$/7kyu">
+      <method v="2" />
+    </configuration>
+    <configuration name="Odd-Even String Sort.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/7kyu/Odd-Even String Sort.js" working-dir="$PROJECT_DIR$/7kyu">
+      <method v="2" />
+    </configuration>
+    <configuration name="Simple beads count.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/7kyu/Simple beads count.js" working-dir="$PROJECT_DIR$/7kyu">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Highest Rank Number in an Array.js" />
+        <item itemvalue="Node.js.Most digits.js" />
+        <item itemvalue="Node.js.Odd-Even String Sort.js" />
+        <item itemvalue="Node.js.Simple beads count.js" />
         <item itemvalue="Node.js.Filter the number.js" />
-        <item itemvalue="Node.js.Round up to the next multiple of 5.js" />
-        <item itemvalue="Node.js.Friend or Foe.js" />
-        <item itemvalue="Node.js.Best travel.js" />
-        <item itemvalue="Node.js.Count of positives  sum of negatives.js" />
       </list>
     </recent_temporary>
   </component>
@@ -159,12 +163,26 @@
       <workItem from="1745220632400" duration="3840000" />
       <workItem from="1745308815751" duration="4652000" />
       <workItem from="1745564459664" duration="4677000" />
-      <workItem from="1747633083473" duration="4390000" />
+      <workItem from="1747633083473" duration="5085000" />
+      <workItem from="1747719099740" duration="5774000" />
     </task>
+    <task id="LOCAL-00001" summary=" # 19.05.2025 :&#10; * Add solved tasks for today">
+      <option name="closed" value="true" />
+      <created>1747637801209</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747637801209</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=" # 19.05.2025 :&#10; * Add solved tasks for today" />
+    <option name="LAST_COMMIT_MESSAGE" value=" # 19.05.2025 :&#10; * Add solved tasks for today" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
